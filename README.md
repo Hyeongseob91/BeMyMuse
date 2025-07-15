@@ -17,7 +17,7 @@
 **입력한 키워드만으로도 작사가가 의도하는 감성과 분위기를 반영한 가사를 자동 생성하는 AI 언어 모델을 개발합니다.**  
 **이를 통해 작사가의 아이디어 발상 과정을 보조하는 창작 지원 도구를 구현하는 것을 목표로 합니다.**  
 
-- <a href="https://www.canva.com/design/DAGd1CW20wA/MfQJQDQdldA8Qs6XvhyuLg/edit?utm_content=DAGd1CW20wA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"> 프로젝트 발표 자료 링크 </a>
+- <a href="https://www.canva.com/design/DAGd1CW20wA/_1t-GdbfjPLkIqb9f3kSzw/view?utm_content=DAGd1CW20wA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb7f7c0f8db"> 프로젝트 발표 자료 링크 </a>
 
 ---
 
